@@ -1,0 +1,40 @@
+body {
+  font-size: 14px;
+}
+.simple-login-container {
+  width: 300px;
+  max-width: 100%;
+  margin: 50px auto;
+}
+.simple-login-container h2 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.simple-login-container .btn-login {
+  background-color: #ff5964;
+  color: #fff;
+}
+a {
+  color: #fff;
+}
+
+table {
+  font-family: arial, sans-serif;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
